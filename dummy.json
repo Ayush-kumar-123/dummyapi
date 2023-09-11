@@ -1,0 +1,70 @@
+{
+  "interests": [
+    {
+      "id": 1,
+      "name": "Law"
+    },
+    {
+      "id": 2,
+      "name": "Judiciary"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Management"
+    },
+    {
+      "id": 5,
+      "name": "CUET"
+    }
+  ],
+  "exams": {
+    "1": [
+      {
+        "id": 101,
+        "name": "CLAT UG"
+      },
+      {
+        "id": 102,
+        "name": "CLAT PG"
+      },
+      {
+        "id": 103,
+        "name": "LAW SCHOOL"
+      }
+    ],
+    "2": [
+      {
+        "id": 210,
+        "name": "NID"
+      },
+      {
+        "id": 211,
+        "name": "NID PG"
+      }
+    ],
+    "3": [
+      {
+        "id": 301,
+        "name": "IPMAT"
+      },
+      {
+        "id": 302,
+        "name": "NMIMS"
+      }
+    ],
+    "4": [
+      {
+        "id": 401,
+        "name": "Civil"
+      },
+      {
+        "id": 402,
+        "name": "ADPO"
+      }
+    ]
+  }
+}
