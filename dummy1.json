@@ -1,0 +1,42 @@
+{
+  "0": {
+    "exam_title": "Exam 0",
+    "category": [
+      { "cat_id": 101, "cat_name": "Category 1", "list_id": 0 },
+      { "cat_id": 102, "cat_name": "Category 2", "list_id": 1 }
+    ],
+    "examlist_index": 0
+  },
+  "1": {
+    "exam_title": "Exam 1",
+    "category": [
+      { "cat_id": 201, "cat_name": "Category A", "list_id": 0 },
+      { "cat_id": 202, "cat_name": "Category B", "list_id": 1 }
+    ],
+    "examlist_index": 1
+  },
+  "2": {
+    "exam_title": "Exam 2",
+    "category": [
+      { "cat_id": 301, "cat_name": "Category X", "list_id": 0 },
+      { "cat_id": 302, "cat_name": "Category Y", "list_id": 1 }
+    ],
+    "examlist_index": 2
+  },
+  "3": {
+    "exam_title": "Exam 3",
+    "category": [
+      { "cat_id": 401, "cat_name": "Category Alpha", "list_id": 0 },
+      { "cat_id": 402, "cat_name": "Category Beta", "list_id": 1 }
+    ],
+    "examlist_index": 3
+  },
+  "4": {
+    "exam_title": "Exam 4",
+    "category": [
+      { "cat_id": 501, "cat_name": "Category Red", "list_id": 0 },
+      { "cat_id": 502, "cat_name": "Category Blue", "list_id": 1 }
+    ],
+    "examlist_index": 4
+  }
+}
